@@ -1,0 +1,1 @@
+[null,{"name":"SetBotGame","temp":"","event-type":"3","actions":[{"gameName":">ahelp","gameLink":"","name":"Set Bot Game"}]},{"name":"BotGameError","temp":"","event-type":"37","actions":[{"gameName":"Bot Error - We sorry!","gameLink":"","name":"Set Bot Game"}]}]
